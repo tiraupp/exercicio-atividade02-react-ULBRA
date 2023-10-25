@@ -56,8 +56,8 @@ Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para
 
 **Tiago Raupp da Rosa**
 
-[![GitHub](https://img.shields.io/badge/GitHub-tiraupp-blue?style=flat&logo=github)](https://github.com/tiraupp)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tiago_raupp-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tiago-raupp/)
+<a href="https://github.com/tiraupp" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-GitHub-%23ffffff?style=for-the-badge&logo=github&logoColor=black" target="_blank"></a>
+<a href="https://www.linkedin.com/in/tiago-raupp/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:tiraupp@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-[![E-mail](https://img.shields.io/badge/E-mail-tiraupp@gmail.com-blue?style=flat&logo=gmail)](mailto:tiraupp@gmail.com)
