@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# Desenvolvimento de Aplicações Orientado a Componentes - ULBRA
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Atividade 02 - React 
 
-## Available Scripts
+# Projeto de Login em React
 
-In the project directory, you can run:
+Este é um projeto de exemplo de um formulário de login desenvolvido em React. Ele demonstra como criar um formulário de login simples usando componentes React.
 
-### `npm start`
+## Tecnologias Utilizadas
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,git,github" />
+  </a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Pré-requisitos
 
-### `npm test`
+Antes de iniciar, você deve ter o Node.js instalado em sua máquina. Você pode baixá-lo em [nodejs.org](https://nodejs.org/).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Como Usar
 
-### `npm run build`
+1. Clone o repositório:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+   ```bash
+   git clone https://github.com/tiraupp/exercicio-atividade02-react-ULBRA.git
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Navegue até o diretório do projeto:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   cd nome-do-repositorio
 
-### `npm run eject`
+3. Instale as dependências:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   ```bash
+   npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+4. Inicie o aplicativo:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+   ```bash
+   npm start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+5. Abra seu navegador e acesse http://localhost:3000 para ver o aplicativo em ação.
 
-## Learn More
+## Funcionalidade
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- O formulário de login possui campos para inserir um e-mail e senha.
+- Os campos do formulário destacam-se quando estão preenchidos.
+- O botão "Login" permite que o usuário faça login no sistema.
+- Há um link para criar uma conta.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Licença
 
-### Code Splitting
+Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para obter detalhes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Autor
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Tiago Raupp da Rosa**
 
-### Making a Progressive Web App
+[![GitHub](https://img.shields.io/badge/GitHub-tiraupp-blue?style=flat&logo=github)](https://github.com/tiraupp)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-tiago_raupp-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/tiago-raupp/)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![E-mail](https://img.shields.io/badge/E-mail-tiraupp@gmail.com-blue?style=flat&logo=gmail)](mailto:tiraupp@gmail.com)
